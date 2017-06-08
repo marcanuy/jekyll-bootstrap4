@@ -7,7 +7,7 @@ This repository is the result of following the steps
 in
 <https://simpleit.rocks/how-to-add-bootstrap-4-to-jekyll-the-right-way/>.
 
-Also a `bower.json` were generated with `$ bower init`.
+`packages.json` were generated with `$ yarn init`.
 
 # Testing locally
 
@@ -16,9 +16,9 @@ To test the site locally:
 1. `$ git clone https://github.com/marcanuy/jekyll-bootstrap4.git`
 2. `$ cd jekyll-bootstrap4/`
 
-Install [bower](https://bower.io/) components.
+Install [yarn](https://yarnpkg.com/lang/en/docs/install) components.
 
-3. `jekyll-bootstrap4$ bower install`
+3. `jekyll-bootstrap4$ yarn install`
 4. `jekyll serve`
 
 Happy Jekylling!

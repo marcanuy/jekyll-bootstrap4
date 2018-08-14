@@ -5,7 +5,7 @@ Bootstrap 4 with Jekyll example site.
 
 This repository is the result of following the steps
 in
-<https://simpleit.rocks/how-to-add-bootstrap-4-to-jekyll-the-right-way/>.
+<https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/>.
 
 `packages.json` were generated with `$ yarn init`.
 

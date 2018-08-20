@@ -3,4 +3,11 @@ sass:
         - _sass
         - node_modules
 
-exclude: []
+exclude:
+  - LICENSE
+  - Makefile
+  - node_modules
+  - package.json
+  - README.md
+  - yarn.lock
+  - .nojekyll

@@ -6,5 +6,3 @@ $font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier Ne
 $font-family-base:       $font-family-monospace;
 
 $font-size-base: 3rem !default; // Assumes the browser default, typically `16px`
-
-@import "../node_modules/bootstrap/scss/variables";

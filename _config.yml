@@ -1,13 +1,6 @@
 sass:
-    load_paths:
-        - _sass
-        - node_modules
-
-exclude:
-  - LICENSE
-  - Makefile
+  load_paths:
+    - _sass
+    - node_modules
+exclude: 
   - node_modules
-  - package.json
-  - README.md
-  - yarn.lock
-  - .nojekyll

@@ -18,7 +18,10 @@ To test the site locally:
 
 Install [yarn](https://yarnpkg.com/lang/en/docs/install) components.
 
-3. `yarn install`
-4. `jekyll serve`
+3. `make serve`
 
 Happy Jekylling!
+
+<hr>
+
+Video generating this repo available at: [![asciicast](https://asciinema.org/a/198975.png)](https://asciinema.org/a/198975)

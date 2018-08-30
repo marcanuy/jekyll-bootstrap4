@@ -7,17 +7,12 @@ This repository is the result of following the steps
 in
 <https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/>.
 
-`packages.json` was generated with `$ yarn init`.
-
 # Testing locally
 
 To test the site locally:
 
 1. `$ git clone https://github.com/marcanuy/jekyll-bootstrap4.git`
 2. `$ cd jekyll-bootstrap4/`
-
-Install [yarn](https://yarnpkg.com/lang/en/docs/install) components.
-
 3. `make serve`
 
 Happy Jekylling!

@@ -10,3 +10,5 @@ git clone https://github.com/kiarashazimzadeh/jekyll-bootstrap.git
 cd jekyll-bootstrap5/
 make serve
 ```
+
+> :warning: GitHub Pages generator is NOT included! It'll be added as soon as possible.

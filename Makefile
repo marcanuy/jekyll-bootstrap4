@@ -14,6 +14,3 @@ build: install include-npm-deps
 
 serve: install include-npm-deps
 	JEKYLL_ENV=production $(JEKYLL) serve
-
-generate-githubpages:
-	rm -fr docs && JEKYLL_ENV=production $(JEKYLL) build --baseurl https://marcanuy.github.io/jekyll-bootstrap4/ -d docs/ && touch docs/.nojekyll

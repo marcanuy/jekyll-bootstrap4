@@ -1,22 +1,12 @@
-# jekyll-bootstrap4
-Bootstrap 4 with Jekyll example site. 
+# jekyll-bootstrap5
+A blank jekyll site with Bootstrap 5.
+This is a fork of marcanuy/jekyll-bootstrap4.
 
-# Notes
+# Test & Modify
+jekyll-bootstrap5 can be used as a starter theme for theming jekyll with Bootstrap 5. Just run these commands and you'll have a Bootstrap-flavored jekyll:
 
-This repository is the result of following the steps
-in
-<https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/>.
-
-# Testing locally
-
-To test the site locally:
-
-1. `$ git clone https://github.com/marcanuy/jekyll-bootstrap4.git`
-2. `$ cd jekyll-bootstrap4/`
-3. `make serve`
-
-Happy Jekylling!
-
-<hr>
-
-Video generating this repo available at: [![asciicast](https://asciinema.org/a/198975.png)](https://asciinema.org/a/198975)
+```
+git clone https://github.com/kiarashazimzadeh/jekyll-bootstrap5.git
+cd jekyll-bootstrap5/
+make serve
+```

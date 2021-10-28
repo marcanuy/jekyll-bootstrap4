@@ -1,7 +1,16 @@
 ---
 ---
+@import "variables";
 /* This is the .scss file that jekyll will process. */
 @import "customized-bootstrap";
 
 /* If you did NOT customized Bootstrap, uncomment the line below */
 // @import "bootstrap/scss/bootstrap";
+
+.content {
+    font-size: $custom-font-size; //using custom variable 
+}
+
+.primarycolor{
+    color: $primary; //using Bootstrap variable
+}
